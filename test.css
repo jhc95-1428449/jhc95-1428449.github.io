@@ -13,11 +13,10 @@ body{
 }
 
 h3{
-	color: #FFBC00
-	font-size: 30px;
+	color: #FFBC00;
+	font-size: 40px;
 	font-family: "Passion One";
 	margin-bottom: 0px;
-	color: #FFBC00;
 }
 
 p{
@@ -32,6 +31,7 @@ p{
 	color: #FFBC00;
 	font-weight: bold;
 }
+
 
 #LeftNav{
 	border: solid 8px black;
