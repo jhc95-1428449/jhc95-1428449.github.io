@@ -1,0 +1,127 @@
+body{
+	background-image: url('bg.jpg');
+}
+
+#logo{
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#nav-t{
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+#nav{
+	height:100%;
+	width:70%;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid 5px white;
+	text-align: center;
+}
+
+a{
+	color: white;
+	font-weight: bold;
+	font-size: 24px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2{
+	font-size: 30px;
+	font-family: 'Bangers', cursive;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+}
+
+p{
+	color: white;
+	text-align: center;
+}
+
+#description{
+	border: solid 5px white;
+	width: 70%;
+	height: 70%;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	color: white;
+	font-family: "Verdana";
+	font-weight: bold;
+	margin-bottom: 10px
+}
+
+#application{
+	border: solid 5px white;
+	width: 70%;
+	height: 70%;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	color: white;
+	font-family: "Verdana";
+	font-weight: bold;
+}
+
+
+ul{
+	list-style-type: none;
+	padding-left: 0px;
+}
+
+#title {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1{
+	font-size: 60px;
+	font-family: 'Bangers', cursive;
+	color: #f5edfe;
+	font-weight: bold;
+	text-align: center;
+}
+
+
+#Content{
+	border: solid 5px black;
+	border-radius: 25px;
+	width: 500px;
+	text-align: center;
+	padding: 15px;
+	background-color: #690040;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+}
+
+
+#form {
+	font-family: "Arial";
+}
+
+input {
+	padding-bottom: 6px;
+	margin: 10px;
+}
+
+button {
+	background-color: #555555;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin-bottom: 10px;
+}
